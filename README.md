@@ -8,4 +8,4 @@ El archivo `index.js` contiene dos funciones: `fn()` y `clickeado()`. La funció
 
 Este código fue elaborado siguiendo las indicaciones del youtuber en donde enseña el uso básico de visual estudio code y otras cosas que son básicas y esenciales para los que están empezando a aprender programación ["****Aprende VS Code ahora! | curso completo de VSCode desde CERO****"](https://www.youtube.com/watch?v=Ei1y51K8jQk) de Nicolas Schurmann en su canal de YouTube "[HolaMundoDev](https://www.youtube.com/@HolaMundoDev)". A los que ven este código y lo comparten les animo a que sigan estudiando y practicando mucho en su camino de convertirse en grandes programadores, les deseo suerte y mucho animo.
 
-¡Gracias por revisar este proyecto!
+¡Gracias por revisar este proyecto!.
